@@ -13,7 +13,7 @@
   font-size: 2rem;
   font-family: comfortaa;
   font-weight: 300;
-  top: 2rem;
+  top: 4rem;
   left: 0;
   right: 0;
 }
@@ -28,7 +28,7 @@ h2 {
 
 .player__buttons {
   position: absolute;
-  bottom: 5rem;
+  bottom: 4rem;
   left: 0;
   right: 0;
 }
@@ -50,8 +50,8 @@ h2 {
     0%{     left: : 20px;    color: #fff;}
     49%{    right: 20px; }
     50%{    right: : 0; }
-    99%{    right: 20px;  }
-    100%{   color: #aaa;    }
+    99%{    left: 0;  }
+    100%{   color: #ccc;    }
 }
 
 body {
